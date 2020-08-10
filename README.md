@@ -8,7 +8,7 @@
 
 ### Fastest Text editor in Market as of 2020
 
-ezpzCode was made by developers for developers - a simple, plain text note taking application for everyone. What you see is what you paste.
+ezpzCode is made by developers for developers - a simple, plain text note taking application for everyone. What you see is what you paste.
 
 ![Screenshot](./images/gtmetrix.JPG)
 
