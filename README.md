@@ -1,8 +1,8 @@
 <h1> ezpzCode - Minimalist Text Editor - Fastest Text Editor in MARKET! </h1>
 
-<p align="center">A web-based note-taking application that will help you to save any note as fast as the speed of light. </p>
+<p text-align="center;">A web-based note-taking application that will help you to save any note as fast as the speed of light. </p>
 
-> **Warning**: ezpzCode is in active development.
+<p text-align="center;"> **Warning**: ezpzCode is in active development.</p>
 
 ![Screenshot](./images/screenshot.JPG)
 
