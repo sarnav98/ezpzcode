@@ -6,7 +6,7 @@
 
 > **Warning**: ezpzCode is in active development.
 
-![Screenshot](./images/screenshot.jpg)
+![Screenshot](./images/screenshot.JPG)
 
 ### Fastest Text editor in Market as of 2020
 
