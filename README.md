@@ -1,0 +1,2 @@
+# ezpzcode
+Minimalist Text Editor 
