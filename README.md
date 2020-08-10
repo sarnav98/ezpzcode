@@ -12,11 +12,11 @@ ezpzCode was made by developers for developers - a simple, plain text note takin
 
 ![Screenshot](./images/gtmetrix.JPG)
 
-Speed of less than 500ms while on full load.
+<b>Speed of less than 500ms while on full load.</b>
 
 ![Screenshot](./images/pagespeed.JPG)
 
-Score of 99 in Google PageSpeed with 0.6s of Speed index.
+<b>Score of 99 in Google PageSpeed with 0.6s of Speed index.</b>
 
 ### Beautiful
 
