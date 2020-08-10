@@ -2,7 +2,7 @@
 
 <p text-align="center;">A web-based note-taking application that will help you to save any note as fast as the speed of light. </p>
 
-<p text-align="center;"> **Warning**: ezpzCode is in active development.</p>
+- **Warning**: ezpzCode is in active development.
 
 ![Screenshot](./images/screenshot.JPG)
 
