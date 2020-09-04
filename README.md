@@ -24,7 +24,7 @@ Enjoy a beautiful, clean design reminiscent of your text editor.
 
 ### Author
 
-- [Sarnav Dutta](https://github.com/sarnav98)
+- [Sarnav Dutta](https://sarnav.me/)
 
 ## License
 
